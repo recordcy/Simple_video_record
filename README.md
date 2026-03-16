@@ -49,4 +49,4 @@ ESC 키를 누르면 프로그램이 종료됩니다.
 ### 녹화 화면
 ![record](record.png)
 ### 녹화 영상
-[![영상 실행](record.png)](record_20260317_000524.mp4)
+[![영상 실행](record.png)]([record_20260317_000524.mp4](https://github.com/recordcy/Simple_video_record/blob/main/record_20260317_000524.mp4))
