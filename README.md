@@ -46,9 +46,5 @@ ESC 키를 누르면 프로그램이 종료됩니다.
 
 ---
 
-## 실행 방법
-
-### 1. 필요한 라이브러리 설치
-
-```bash
-pip install opencv-python
+### 녹화 화면
+![record](record.png)
